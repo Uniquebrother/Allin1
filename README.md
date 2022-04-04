@@ -4,7 +4,7 @@ $ pkg update && pkg upgrade
 
 $ pkg install python
 
-$ pkg install python3
+$ pkg install python2
 
 $ pkg install git
 
@@ -22,4 +22,4 @@ Tools Setup & Run :
 
 $ clear && ls && cd Allin1 && ls
 
-$ python allin1.py
+$ python2 allin1.py
